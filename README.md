@@ -26,5 +26,3 @@ Eu sou a Maria Fernanda, estudo desenvolvimento Front-End - Web.
 </div>
   
 ##
-  
-![Snake animation](https://github.com/Mafehudinik/Mafehudinik/blob/output/github-contribution-grid-snake.svg)
